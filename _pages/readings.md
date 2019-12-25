@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Reading
+title: Readings
 permalink: /read/
 ---
 Ongoing list of some all-time favourites and other iconic readings. The life ones are paired with songs to read to. I do not necessarily agree with all of the thoughts included in readings below. Thanks to anyone who recommended readings on this list! Suggestions always welcome. 
 
 ## Do Things Faster 
-See some things that helped me [here](http://evazhang612.github.io/posts/productivity).
-
-
 [Productivity - Sam Altman](https://blog.samaltman.com/productivity)
 
 
@@ -17,9 +14,10 @@ See some things that helped me [here](http://evazhang612.github.io/posts/product
 
 [Maker's Schedule - Paul Graham](http://www.paulgraham.com/makersschedule.html)
 
+
 ## How Do We Live & How Do Others Live? Vignettes
 
-[The Trouble with Optionality - Desai Harvard Commencement Speech](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/)
+[The Trouble with Optionality - Mihir Desai Harvard Commencement Speech](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/)
 
 *You can never create enough option value—and the longer you spend acquiring options, the harder it is to stop.*
 
@@ -31,12 +29,6 @@ See some things that helped me [here](http://evazhang612.github.io/posts/product
 *C'était à cause du soleil.*
 
 <iframe src="https://open.spotify.com/embed/track/5QukmWtZgUbqLmjDmqLbRa" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-
-[Company Man - David Sedaris](http://www.newyorker.com/magazine/2013/06/03/company-man-4)
-
-<iframe src="https://open.spotify.com/embed/track/2shVib26gMOKusQvUDWByO" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 
 [Slouching Towards Bethlam - Joan Didion](https://nstearns.edublogs.org/files/2012/03/Slouching-toward-bethlehem-184kxww.pdf)
 
@@ -59,6 +51,10 @@ See some things that helped me [here](http://evazhang612.github.io/posts/product
 <iframe src="https://open.spotify.com/embed/track/1JvsbPEAeF59CvozxFldrN" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
+[Me Talk Pretty One Day - David Sedaris](https://www.esquire.com/lifestyle/a1419/talk-pretty-0399/)
+
+<iframe src="https://open.spotify.com/embed/track/2shVib26gMOKusQvUDWByO" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 [Down and Out in Paris and London - George Orwell](https://www.planetebook.com/free-ebooks/down-and-out-in-paris-and-london.pdf)
 
 
@@ -76,7 +72,7 @@ See some things that helped me [here](http://evazhang612.github.io/posts/product
 *The first principle is that you must not fool yourself—and you are the easiest person to fool.*
 
 
-[Principles - Dalio](https://www.principles.com/)
+[Principles - Ray Dalio](https://www.principles.com/)
 
 *I just want to be right—I don’t care if the right answer comes from me.*
 
