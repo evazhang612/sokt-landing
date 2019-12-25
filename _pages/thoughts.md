@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 permalink: /thoughts/
 title: Thoughts
 ---
-
 
 <div id="archives">
 {% for category in site.categories %}

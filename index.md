@@ -1,0 +1,10 @@
+---
+layout: about
+---
+
+<article class="page">
+
+  <div class="entry">
+    {{ content }}
+  </div>
+</article>
