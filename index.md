@@ -2,13 +2,13 @@
 layout: default_landing
 ---
 
-I'm a _Junior @ [Stanford](https://profiles.stanford.edu/eva-zhang)_, currently pursuing interests in mathematics, computer science, and tech. policy. Formally, I'm coterming in Computer Science (AI track), and intending to major in Mathematics.
+I'm a **Junior @ [Stanford](https://profiles.stanford.edu/eva-zhang)**, currently pursuing interests in mathematics, computer science, and tech. policy. Formally, I'm coterming in Computer Science (AI track), and intending to major in Mathematics.
 
 Here are some places I've spent some time at. 
 
 <img src="images/Presentation1.jpg" width="500"/>
 
-I've lived in Vancouver, Canada, Shanghai, China, and most recently Stanford, USA. _Things I'm prioritizing learning more about in 2020:_ 
+I've lived in Vancouver, Canada, Shanghai, China, and most recently Stanford, USA. **Things I'm prioritizing learning more about in 2020:** 
 
 - algorithmic policy, especially regulatory trends on fairness
 - large-scale healthcare digitization 
@@ -20,4 +20,4 @@ In a past life, I have spent a sizable amount of time travelling for Model UN an
 
 I'm currently working on a few projects for 2020. When choosing work, I prioritize people and amount of learning (which is often linked to the people). 
 
-Websites are great, but there's always something special about chatting in-person. I always find it refreshing to hear new perspectives - feel free to reach out by email! 
+Websites are great, but there's always something special about chatting in person. I always find it refreshing to hear new perspectives - feel free to reach out by email! 
