@@ -65,6 +65,14 @@ img {
   bottom-padding: 15px;
 }
 
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .main {
   line-height: 4.5em;
   position: absolute;
