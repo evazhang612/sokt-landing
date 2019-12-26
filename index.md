@@ -8,4 +8,4 @@ Here are some places I've spent some time at.
 
 <img src="images/Presentation1.jpg" width="500"/>
 
-I've lived in Vancouver, Canada, Shanghai, China, and most recently Stanford, USA. I'm working on a couple of projects at the moment -- 
+I've lived in Vancouver, Canada, Shanghai, China, and most recently Stanford, USA. 
