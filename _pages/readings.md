@@ -5,6 +5,8 @@ permalink: /read/
 ---
 Ongoing list of some all-time favourites and other iconic readings. The life ones are paired with songs to read to. I do not necessarily agree with all of the thoughts included in readings below. Thanks to anyone who recommended readings on this list! Suggestions always welcome. 
 
+Checking commits.
+
 ## Do Things Faster 
 [Productivity - Sam Altman](https://blog.samaltman.com/productivity)
 
