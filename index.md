@@ -6,6 +6,6 @@ I'm a Junior @ [Stanford](https://profiles.stanford.edu/eva-zhang), currently pu
 
 Here are some places I've spent some time at. 
 
-<img src="images/Presentation1.jpg" width="600"/>
+<img src="images/Presentation1.jpg" width="500"/>
 
-I came into Stanford having spent a sizable amount of time in debate and Model UN, and for the first quarter thought I would major in Biology (and thus took only Chemistry, Philosophy, and Applied Physics). 
+I was born in Shanghai, and live and went to school in Vancouver, Canada. Having spent a lot of time in high school debate and Model UN, I came to Stanford thinking I would major in Biology or Health Policy. 
