@@ -8,4 +8,4 @@ Here are some places I've spent some time at.
 
 <img src="images/Presentation1.jpg" width="500"/>
 
-I was born in Shanghai, and live and went to school in Vancouver, Canada. Having spent a lot of time in high school debate and Model UN, I came to Stanford thinking I would major in Biology or Health Policy. 
+I've lived in Vancouver, Canada, Shanghai, China, and most recently Stanford, USA. I'm working on a couple of projects at the moment -- 
