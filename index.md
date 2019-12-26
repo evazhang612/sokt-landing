@@ -6,7 +6,7 @@ I'm a Junior @ [Stanford](https://profiles.stanford.edu/eva-zhang), currently pu
 
 Here are some places I've spent some time at. 
 
-<img src="images/Presentation1.jpg width="300"/>
+<img src="images/Presentation1.jpg" width="300"/>
 
 ![](images/Presentation1.jpg)
 
