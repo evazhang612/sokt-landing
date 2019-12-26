@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /thoughts/
 title: Thoughts
@@ -20,4 +20,4 @@ title: Thoughts
     {% endfor %}
   </div>
 {% endfor %}
-</div>
+</div> -->
