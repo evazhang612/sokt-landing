@@ -14,7 +14,7 @@ Stay tuned for a CS course on Interpretability & Fairness in the spring! If you 
 
 {% raw %}
 <details>
-    <summary><i>CS 229</i> - <b>Machine Learning</b>, Project on Which Financial Ratios Are good Predictors of Long-Term Investment Outcome </summary>
+    <summary><i>CS 229</i> - <b>Machine Learning</b>, Project on Financial Ratio Predictor Efficacy On Long-Term Investment Outcome </summary>
     A
 </details>
 {% endraw %}
