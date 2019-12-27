@@ -39,7 +39,6 @@ Stay tuned for a CS course on Interpretability & Fairness in the spring! Click o
     A
 </details>
 {% endraw %}
-{% endraw %}
 
 *MATH 120* - Groups & Rings {% raw %}
 <details>
