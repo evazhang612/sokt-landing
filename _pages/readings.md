@@ -23,6 +23,17 @@ Ongoing list of some all-time favourites and other iconic readings. The life one
 
 <iframe src="https://open.spotify.com/embed/track/4xh7W7tlNMIczFhupCPniY" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+[Considering Nontraditional Summer Opportunities - Rohan Pavuluri](https://docs.google.com/document/d/17lRRzTGRF_yWzUPg7hiOcFgAwxc7oFuqI3TBBst3s24/edit)
+
+A close-to-home example related on the topic of optionality.
+
+<iframe src="https://open.spotify.com/embed/track/0y3Y9zD2UR0XVl5nP0dYbO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+[This is Water - David Foster Wallace](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
+
+*You get to consciously decide what has meaning and what doesn’t.*
+
+<iframe src="https://open.spotify.com/embed/track/10oNErRgxuE0mMUXrDdm1y" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 [L'Étranger - Albert Camus](http://www.self.gutenberg.org/articles/eng/The_Stranger_(novel))
 
