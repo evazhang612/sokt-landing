@@ -12,51 +12,51 @@ Previously I've worked on projects in Deep Learning research @Stanford ML ([Clim
 ## Sample Technical Courses 
 Stay tuned for a CS course on Interpretability & Fairness in the spring! Click on courses I've taken to show the grade (if you really care about that type of thing, don't feel obliged.)
 
-*CS 229* - Machine Learning, Project on Which Financial Ratios Are good Predictors of Long-Term Investment Outcome {% raw %}
+{% raw %}
 <details>
-    <summary>Grade</summary>
+    <summary>*CS 229* - Machine Learning, Project on Which Financial Ratios Are good Predictors of Long-Term Investment Outcome </summary>
     A
 </details>
 {% endraw %}
  
-*CS 224N* - Natural Language Processing with Deep Learning, Project on Character-Aware Direct Output Language Models{% raw %}
+{% raw %}
 <details>
-    <summary>Grade</summary>
+    <summary>*CS 224N* - Natural Language Processing with Deep Learning, Project on Character-Aware Direct Output Language Models</summary>
     A
 </details>
 {% endraw %}
 
-*CS 236* - Deep Generative Models, Project on Entropy Regularization in Conditional GANs {% raw %}
+{% raw %}
 <details>
-    <summary>Grade</summary>
+    <summary>*CS 236* - Deep Generative Models, Project on Entropy Regularization in Conditional GANs </summary>
     A
 </details>
 {% endraw %}
 
-*MATH 158* - Stochastic Processes {% raw %}
+{% raw %}
 <details>
-    <summary>Grade</summary>
+    <summary>*MATH 158* - Stochastic Processes </summary>
     A
 </details>
 {% endraw %}
 
-*MATH 120* - Groups & Rings {% raw %}
+{% raw %}
 <details>
-    <summary>Grade</summary>
+    <summary>*MATH 120* - Groups & Rings </summary>
     A
 </details>
 {% endraw %}
 
-*MATH 104* - Applied Matrix Theory {% raw %}
+{% raw %}
 <details>
-    <summary>Grade</summary>
+    <summary>*MATH 104* - Applied Matrix Theory </summary>
     A+
 </details>
 {% endraw %}
 
-*CS 144* - Computer Networking {% raw %}
+{% raw %}
 <details>
-    <summary>Grade</summary>
+    <summary>*CS 144* - Computer Networking </summary>
     A
 </details>
 {% endraw %}
