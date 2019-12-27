@@ -4,10 +4,14 @@ title: Building
 permalink: /build
 ---
 
+## Ethos 
+I like to work on projects that 
+
+
 ## Technical Interests 
 I'm at the moment focused on learning about Explainable AI and Cybersecurity.
 
-Previously I've worked on projects in Deep Learning research @Stanford ML ([Climate Change](https://stanfordmlgroup.github.io/), Coauthor NeurIPS 2019 CC 19'), @WBG ([Famine Prediction](https://www.worldbank.org/en/programs/famine-early-action-mechanism)), and [Stanford Center for Biomedical Informatics Research](https://bmir.stanford.edu/) (EHR Patient Outcomes, Primary Coauthor WiML 18'). Last summer, I worked on improving image label granularity for company-wide Visual Search @ Google (for applications such as Google Lens). Freshman summer I worked on Genome Assembly software for Stanford Biology and worked on a deep learning project at a startup called Omniscience. 
+Previously I've worked on projects in Deep Learning research @Stanford ML ([Climate Change](https://stanfordmlgroup.github.io/), Coauthor NeurIPS 2019 CC 19'), @WBG ([Famine Prediction](https://www.worldbank.org/en/programs/famine-early-action-mechanism)), and [Stanford Center for Biomedical Informatics Research](https://bmir.stanford.edu/) (EHR Patient Outcomes, Primary Coauthor WiML 18'). Last summer, I worked on improving image label granularity for company-wide [Vision Semantic Service @ Google](https://images.google.com/) (applications include Lens, Vision AI, OCR). Freshman summer I worked on Genome Assembly software for Stanford Biology and worked on a deep learning project at a startup called Omniscience. 
 
 ## Sample Technical Courses 
 Stay tuned for a CS course on Interpretability & Fairness in the spring! If you really care about grades, you can click on the course dropdown  (but please don't feel obliged). 
