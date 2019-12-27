@@ -12,7 +12,7 @@ Previously I've worked on projects in Deep Learning research @Stanford ML ([Clim
 ## Sample Technical Courses 
 Stay tuned for a CS course on Interpretability & Fairness in the spring! Click on courses I've taken to show the grade (if you really care about that type of thing, don't feel obliged.)
 
-*CS 229* - Machine Learning, Project on Importance of Financial Ratios on Investment Outcome {% raw %}
+*CS 229* - Machine Learning, Project on Which Financial Ratios Are good Predictors of Long-Term Investment Outcome {% raw %}
 <details>
     <summary>Grade</summary>
     A
