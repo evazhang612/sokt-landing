@@ -4,10 +4,6 @@ title: Building
 permalink: /build
 ---
 
-## Ethos 
-I like to work on projects that 
-
-
 ## Technical Interests 
 I'm at the moment focused on learning about Explainable AI and Cybersecurity.
 
