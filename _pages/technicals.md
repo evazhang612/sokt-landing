@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Building
+title: Build
 permalink: /build
 ---
 
