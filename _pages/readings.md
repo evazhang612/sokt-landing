@@ -25,7 +25,7 @@ Ongoing list of some all-time favourites and other iconic readings. The life one
 
 [Considering Nontraditional Summer Opportunities - Rohan Pavuluri](https://docs.google.com/document/d/17lRRzTGRF_yWzUPg7hiOcFgAwxc7oFuqI3TBBst3s24/edit)
 
-A close-to-home example related on the topic of optionality.
+A close-to-home related example on the topic of optionality.
 
 <iframe src="https://open.spotify.com/embed/track/0y3Y9zD2UR0XVl5nP0dYbO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
