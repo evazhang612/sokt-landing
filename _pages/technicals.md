@@ -13,43 +13,57 @@ Previously I've worked on projects in Deep Learning research @Stanford ML ([Clim
 Stay tuned for a CS course on Interpretability & Fairness in the spring! Click on courses I've taken to show the grade (if you really care about that type of thing, don't feel obliged.)
 
 *CS 229* - Machine Learning, Project on Importance of Financial Ratios on Investment Outcome 
-{% capture summary %}Grade{% endcapture %}
-{% capture details %}
-A
-{% endcapture %}{% include details.html %}
+{% raw %}
+<details>
+    <summary>{{Grade}}</summary>
+    {{ A }}
+</details>
+{% endraw %}
  
 *CS 224N* - Natural Language Processing with Deep Learning, Project on Character-Aware Direct Output Language Models
-{% capture summary %}Grade{% endcapture %}
-{% capture details %}
-A
-{% endcapture %}{% include details.html %}
+{% raw %}
+<details>
+    <summary>{{Grade}}</summary>
+    {{ A }}
+</details>
+{% endraw %}
 
 *CS 236* - Deep Generative Models, Project on Entropy Regularization in Conditional GANs
-{% capture summary %}Grade{% endcapture %}
-{% capture details %}
-A
-{% endcapture %}{% include details.html %}
+{% raw %}
+<details>
+    <summary>{{Grade}}</summary>
+    {{ A }}
+</details>
+{% endraw %}
 
 *MATH 158* - Stochastic Processes
-{% capture summary %}Grade{% endcapture %}
-{% capture details %}
-A
-{% endcapture %}{% include details.html %}
+{% raw %}
+<details>
+    <summary>{{Grade}}</summary>
+    {{ A }}
+</details>
+{% endraw %}
 
 *MATH 120* - Groups & Rings
-{% capture summary %}Grade{% endcapture %}
-{% capture details %}
-A
-{% endcapture %}{% include details.html %}
+{% raw %}
+<details>
+    <summary>{{Grade}}</summary>
+    {{ A }}
+</details>
+{% endraw %}
 
 *MATH 104* - Applied Matrix Theory
-{% capture summary %}Grade{% endcapture %}
-{% capture details %}
-A+
-{% endcapture %}{% include details.html %}
+{% raw %}
+<details>
+    <summary>{{Grade}}</summary>
+    {{ A+ }}
+</details>
+{% endraw %}
 
 *CS 144* - Computer Networking
-{% capture summary %}Grade{% endcapture %}
-{% capture details %}
-A
-{% endcapture %}{% include details.html %}
+{% raw %}
+<details>
+    <summary>{{Grade}}</summary>
+    {{ A }}
+</details>
+{% endraw %}
