@@ -7,7 +7,7 @@ permalink: /build
 ## Technical Interests 
 I'm at the moment focused on learning about Explainable AI and Cybersecurity.
 
-Previously I've worked on projects in Deep Learning research @Stanford ML ([Climate Change, Coauthor NeurIPS 2019 CC 19'](https://stanfordmlgroup.github.io/)), @WBG ([Famine Prediction](https://www.worldbank.org/en/programs/famine-early-action-mechanism)), and [Stanford Center for Biomedical Informatics Research](https://bmir.stanford.edu/) (EHR Patient Outcomes, Primary Coauthor WiML 18'). Last summer, I worked on improving image label granularity for company-wide Visual Search @ Google (for applications such as Google Lens). Freshman summer I worked on Genome Assembly software for Stanford Biology and worked on a deep learning project at a startup called Omniscience. 
+Previously I've worked on projects in Deep Learning research @Stanford ML ([Climate Change](https://stanfordmlgroup.github.io/), Coauthor NeurIPS 2019 CC 19'), @WBG ([Famine Prediction](https://www.worldbank.org/en/programs/famine-early-action-mechanism)), and [Stanford Center for Biomedical Informatics Research](https://bmir.stanford.edu/) (EHR Patient Outcomes, Primary Coauthor WiML 18'). Last summer, I worked on improving image label granularity for company-wide Visual Search @ Google (for applications such as Google Lens). Freshman summer I worked on Genome Assembly software for Stanford Biology and worked on a deep learning project at a startup called Omniscience. 
 
 ## Sample Technical Courses 
 Stay tuned for a CS course on Interpretability & Fairness in the spring! Click on courses I've taken to show the grade (if you really care about that type of thing, don't feel obliged.)
