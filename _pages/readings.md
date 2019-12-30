@@ -17,6 +17,7 @@ Ongoing list of some all-time favourites and other iconic readings. The life one
 
 [Productivity Archive - Brad Feld](https://feld.com/archives/category/productivity)
 
+
 ## How Do We Live & How Do Others Live? Vignettes
 
 [The Trouble with Optionality - Mihir Desai Harvard Commencement Speech](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/)
