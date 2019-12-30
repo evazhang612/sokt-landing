@@ -21,11 +21,15 @@ html {
 }
 
 .svg-icon.vsco {
-background: url('https://api.iconify.design/simple-icons:vsco.svg') no-repeat center center / contain;
+  background: url('https://api.iconify.design/simple-icons:vsco.svg') no-repeat center center / contain;
 }
 
 .svg-icon.spotify {
   background: url('https://api.iconify.design/bx:bxl-spotify.svg?color=%231DB954') no-repeat center center / contain;
+}
+
+.svg-icon.twitter { 
+  background: url('https://api.iconify.design/ant-design:twitter-circle-filled.svg?color=%231DA1F2') no-repeat center center / contain;
 }
 
 body {
