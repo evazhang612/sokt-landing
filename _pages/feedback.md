@@ -4,6 +4,6 @@ title: Feedback
 permalink: /feedback/
 ---
 
-![https://raw.githubusercontent.com/evazhang612/evazhang.com/master/assets/images/chobbes.jpg]
+<img src = https://raw.githubusercontent.com/evazhang612/evazhang.com/master/assets/images/chobbes.jpg>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScj3OZ_Ckk1qAa8w7tTvLL8HpksFl8EJ2L6g1Zvvj60k3cXnA/viewform?embedded=true" width="640" height="670" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
