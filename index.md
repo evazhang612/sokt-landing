@@ -24,4 +24,4 @@ I'm currently working on a few projects for 2020. When choosing work, I prioriti
 
 Websites are great, but there's always something special about chatting in person. I always find it refreshing to hear new perspectives - feel free to reach out by email! 
 
-You can also leave anonymous feedback for me [here :thought_balloon:](https://www.evazhang.com/feedback/). 
+You can also leave anonymous feedback :thought_balloon: for me [here](https://www.evazhang.com/feedback/). 
