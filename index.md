@@ -22,4 +22,4 @@ In a past life, I have spent a sizable amount of time travelling for Model UN an
 
 I'm currently working on a few projects for 2020. When choosing work, I prioritize people and amount of learning (which is often linked to the people). 
 
-Websites are great, but there's always something special about chatting in person. I always find it refreshing to hear new perspectives - feel free to reach out by email! You can also leave anonymous feedback for me [here](https://evazhang.com/feedback).
+Websites are great, but there's always something special about chatting in person. I always find it refreshing to hear new perspectives - feel free to reach out by email! You can also leave anonymous feedback for me [here](https://www.evazhang.com/feedback/).
