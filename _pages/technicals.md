@@ -56,7 +56,7 @@ Stay tuned for a CS course on AI Interpretability & Fairness I'm designing for t
 
 {% raw %}
 <details>
-    <summary><i>CS 144</i> - <b>Computer Networking</b> - Best Assignment Submission</summary>
+    <summary><i>CS 144</i> - <b>Computer Networking</b> - Best TCP Sender Assignment</summary>
     A
 </details>
 {% endraw %}
