@@ -42,7 +42,7 @@ Stay tuned for a CS course on AI Interpretability & Fairness I'm designing for t
 
 {% raw %}
 <details>
-    <summary><i>MATH 120</i> - <b>Groups & Rings</b> </summary>
+    <summary><i>MATH 120</i> - <b>Groups & Rings (Writing in the Major, required for honors Math)</b> </summary>
     A
 </details>
 {% endraw %}
