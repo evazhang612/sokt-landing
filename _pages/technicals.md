@@ -9,6 +9,8 @@ I'm at the moment focused on learning about Explainable AI and Cybersecurity.
 
 Previously I've worked on projects in Deep Learning research @[Stanford ML](https://stanfordmlgroup.github.io/)(Professor Andrew Ng's research group, Coauthor NeurIPS 2019 Climate 19'), @[World Bank Group](https://www.worldbank.org/) ([Famine Prediction](https://www.worldbank.org/en/programs/famine-early-action-mechanism)), and [Stanford Center for Biomedical Informatics Research](https://bmir.stanford.edu/) (EHR Patient Outcomes, Primary Coauthor WiML 18'). Last summer, I worked on improving image label granularity for company-wide [Vision Semantic Service @ Google](https://images.google.com/) (visual search applications include Lens, Vision AI, OCR). Freshman summer I worked on Genome Assembly software for [Stanford Biology](https://www.morrisonlabatstanford.org/) and worked on a deep learning project at a startup called Omniscience. 
 
+I came into Stanford interested in Bioengineering / Health Policy, and took Chem 31X, Philosophy, and Energy Policy first quarter. Community and mentorship was (and is) a really important part of how my interests evolved. Here's a [brief instagram snippet](https://www.instagram.com/p/B7kewSMh4MH/) from Stanford Women in CS on how I got started in Computer Science. Always happy to chat and share my experiences if you're unsure about a path in CS! 
+
 ## Sample Technical Courses 
 Stay tuned for a CS course on AI Interpretability & Fairness listed under **CS81SI** I'm designing for the spring! (If you really care about a specific course grade, you can click on the course dropdown, but please don't feel obliged). 
 
