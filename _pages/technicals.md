@@ -12,7 +12,7 @@ Previously I've worked on projects in Deep Learning research @[Stanford ML](http
 I came into Stanford interested in Bioengineering / Health Policy, and took Chemistry, Philosophy, and Energy Policy first quarter. Community and mentorship were (and are) important to how my interests evolved. Here's a [brief instagram snippet](https://www.instagram.com/p/B7kewSMh4MH/) from Stanford Women in CS on how I got started in Computer Science. Always happy to chat and share my experiences if you're unsure what a path in CS could look like! 
 
 ## Sample Technical Courses 
-Stay tuned for a CS course on AI Interpretability & Fairness listed under **CS81SI** I'm designing for the spring! (If you really care about a specific course grade, you can click on the course dropdown, but please don't feel obliged). 
+Stay tuned for a CS course on AI Interpretability & Fairness listed under [CS81SI](https://cs81si.github.io/) I'm designing for the spring! (If you really care about a specific course grade, you can click on the course dropdown, but please don't feel obliged). 
 
 {% raw %}
 <details>
