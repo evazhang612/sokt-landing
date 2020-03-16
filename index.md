@@ -20,7 +20,7 @@ Courses I've enjoyed at Stanford include *Groups & Rings, Biodesign Ventures, En
 
 In a past life, I have spent a sizable amount of time travelling for Model UN and debate. Arguing with people has given me useful practice for defending my questionable (or so I have been told) [music](https://open.spotify.com/user/evazhung?si=zAJdV4WNRiWQr3CUW8qswQ) and productivity habits in college. I'm not putting these on the Internet for fear of reader retaliation, happy to chat more offline. 
 
-I'm currently working on a few projects for 2020. When choosing work, I prioritize people and amount of learning (which is often linked to the people). 
+I'm currently working on a few projects for 2020. When choosing work, I prioritize learning.
 
 Websites are great, but there's always something special about chatting in person. I always find it refreshing to hear new perspectives - feel free to reach out by email! 
 
