@@ -14,13 +14,13 @@ I came into Stanford interested in Bioengineering / Health Policy, and took Chem
 ## Sample Technical Courses 
 Stay tuned for a CS course on AI Interpretability & Fairness listed under [CS81SI](https://cs81si.stanford.edu) I'm designing for the spring!
 
-<i>CS 107, 109, 110, 161</i> <b> All of CS Core </b> 
+<i>CS 107, 109, 110, 161</i> - <b> All of CS Core </b> 
 
 <i>CS 144</i> - <b>Computer Networking</b> - Best TCP Sender Assignment
 
 <i>CS 205L</i> - <b>Continuous Methods in Machine Learning> 
 
-<i>CS 229</i> - <b>Machine Learning</b>, Project on Financial Ratio Predictor Efficacy On Long-Term Investment Outcome </i>
+<i>CS 229</i> - <b>Machine Learning</b>, Project on Financial Ratio Predictor Efficacy On Long-Term Investment Outcome
 
 <i>CS 224N</i> - <b>Natural Language Processing with Deep Learning</b>, Project on Character-Aware Direct Output Language Models
 
