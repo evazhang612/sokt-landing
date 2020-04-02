@@ -14,14 +14,24 @@ I came into Stanford interested in Bioengineering / Health Policy, and took Chem
 ## Sample Technical Courses 
 Stay tuned for a CS course on AI Interpretability & Fairness listed under [CS81SI](https://cs81si.stanford.edu) I'm designing for the spring!
 
-<i>CS 107, 109, 110, 161<i> <b> All of CS Core </b> 
-<i>CS 205L</i> - <b>Continuous Methods in Machine Learning> 
-<i>CS 229</i> - <b>Machine Learning</b>, Project on Financial Ratio Predictor Efficacy On Long-Term Investment Outcome </
-<i>CS 224N</i> - <b>Natural Language Processing with Deep Learning</b>, Project on Character-Aware Direct Output Language Models
-<i>CS 234</i> - <b> Reinforcement Learning </b>
-<i>CS 236</i> - <b>Deep Generative Models</b>, Project on Entropy Regularization in Conditional GANs 
-<i>CS 255</i> - <b>Cryptography</b>
-<i>MATH 158</i>- <b>Stochastic Processes</b> 
-<i>MATH 120</i> - <b>Groups & Rings</b>
-<i>MATH 104</i> - <b>Applied Matrix Theory</b> 
+<i>CS 107, 109, 110, 161</i> <b> All of CS Core </b> 
+
 <i>CS 144</i> - <b>Computer Networking</b> - Best TCP Sender Assignment
+
+<i>CS 205L</i> - <b>Continuous Methods in Machine Learning> 
+
+<i>CS 229</i> - <b>Machine Learning</b>, Project on Financial Ratio Predictor Efficacy On Long-Term Investment Outcome </i>
+
+<i>CS 224N</i> - <b>Natural Language Processing with Deep Learning</b>, Project on Character-Aware Direct Output Language Models
+
+<i>CS 234</i> - <b> Reinforcement Learning </b>
+
+<i>CS 236</i> - <b>Deep Generative Models</b>, Project on Entropy Regularization in Conditional GANs 
+
+<i>CS 255</i> - <b>Cryptography</b>
+
+<i>MATH 104</i> - <b>Applied Matrix Theory</b> 
+
+<i>MATH 120</i> - <b>Groups & Rings</b>
+
+<i>MATH 158</i>- <b>Stochastic Processes</b> 
