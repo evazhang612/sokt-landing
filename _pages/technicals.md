@@ -18,7 +18,7 @@ Stay tuned for a CS course on AI Interpretability & Fairness listed under [CS81S
 
 <i>CS 144</i> - <b>Computer Networking</b> - Best TCP Sender Assignment
 
-<i>CS 205L</i> - <b>Continuous Methods in Machine Learning> 
+<i>CS 205L</i> - <b>Continuous Methods in Machine Learning
 
 <i>CS 229</i> - <b>Machine Learning</b>, Project on Financial Ratio Predictor Efficacy On Long-Term Investment Outcome
 
