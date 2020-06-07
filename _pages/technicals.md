@@ -26,7 +26,7 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 
 <i>CS 231N</i> - <b> Convolutional Neural Networks for Visual Recognition</b>, Project on Non-Linear Concept Vectors
 
-<i>CS 234</i> - <b> Reinforcement Learning </b>, Project on Intrinsict Motivation in Meta Learning
+<i>CS 234</i> - <b> Reinforcement Learning</b>, Project on Intrinsict Motivation in Meta Learning
 
 <i>CS 236</i> - <b>Deep Generative Models</b>, Project on Entropy Regularization in Conditional GANs 
 
@@ -36,8 +36,8 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 
 <i>MATH 120</i> - <b>Groups & Rings (Honours, Writing in the Major)</b>
 
-<i>MATH 158</i>- <b>Stochastic Processes</b> 
+<i>MATH 158</i> - <b>Stochastic Processes</b> 
 
-<i>MATH 159</i>- <b>Discrete Probabilistic Methods</b>
+<i>MATH 159</i> - <b>Discrete Probabilistic Methods</b>
 
-<i>MATH 171</i>- <b>Real Analysis (Honours, Writing in the Major)</b>
+<i>MATH 171</i> - <b>Real Analysis (Honours, Writing in the Major)</b>
