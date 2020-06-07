@@ -12,7 +12,7 @@ Previously I've worked on projects in Deep Learning research @[Stanford ML](http
 I came into Stanford interested in Bioengineering / Health Policy, and took Chemistry, Philosophy, and Energy Policy first quarter. Community and mentorship were (and are) important to how my interests evolved. Here's a [brief instagram snippet](https://www.instagram.com/p/B7kewSMh4MH/) from Stanford Women in CS on how I got started in Computer Science. Always happy to chat and share my experiences if you're unsure what a path in CS could look like! 
 
 ## Sample Technical Courses 
-I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanford listed under [CS81SI](https://cs81si.stanford.edu) in Spring 2020, with the invaluable support of my faculty sponsors Professor [James Zou](https://www.james-zou.com/) and Profesor [Omer Reingold](https://omereingold.wordpress.com/). If you want more information about the course, please feel free to reach out to me. 
+I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanford listed under [CS81SI](https://cs81si.stanford.edu) in Spring 2020, with the invaluable support of my faculty sponsors Professor [James Zou](https://www.james-zou.com/) and Professor [Omer Reingold](https://omereingold.wordpress.com/). If you want more information about the course, please feel free to reach out to me. 
 
 <i>CS 107, 109, 110, 161</i> - <b> All of CS Core </b> 
 
