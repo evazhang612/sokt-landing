@@ -26,4 +26,4 @@ I'm currently working on a few projects for 2020. I would especially love to cha
 
 Websites are great, but there's always something special about chatting in person (read: Zoom). I always find it refreshing to hear new perspectives - feel free to reach out by email! 
 
-You can also leave anonymous feedback for me [here 💭](https://www.evazhang.com/feedback/). 
+You can also leave anonymous feedback for me [here 💭](http://www.evazhang.com/feedback/). 
