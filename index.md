@@ -2,7 +2,7 @@
 layout: default_landing
 ---
 
-I'm a **rising senior @ [Stanford](https://profiles.stanford.edu/eva-zhang)**, currently pursuing interests in mathematics, computer science, and tech. policy. Formally, I'm pursuing a Master's in Computer Science (AI track), and a Bachelor's in Mathematics. Check out my **[Build](www.evazhang.com/build)** page for more specific technical experiences.
+I'm a **rising senior @ [Stanford](https://profiles.stanford.edu/eva-zhang)**, currently pursuing interests in mathematics, computer science, and tech. policy. Formally, I'm pursuing a Master's in Computer Science (AI track), and a Bachelor's in Mathematics. Check out my **[Build](https://www.evazhang.com/build)** page for more specific technical experiences.
 
 Here are some places I've spent some time at. 
 
@@ -26,4 +26,4 @@ I'm currently working on a few projects for 2020. I would especially love to cha
 
 Websites are great, but there's always something special about chatting in person (read: Zoom). I always find it refreshing to hear new perspectives - feel free to reach out by email! 
 
-You can also leave anonymous feedback for me [here 💭](www.evazhang.com/feedback/). 
+You can also leave anonymous feedback for me [here 💭](https://www.evazhang.com/feedback/). 
