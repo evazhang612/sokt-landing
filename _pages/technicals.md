@@ -34,10 +34,10 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 
 <i>MATH 104</i> - <b>Applied Matrix Theory</b> 
 
-<i>MATH 120</i> - <b>Groups & Rings(Honours, WIM)</b>
+<i>MATH 120</i> - <b>Groups & Rings (Honours, Writing in the Major)</b>
 
 <i>MATH 158</i>- <b>Stochastic Processes</b> 
 
 <i>MATH 159</i>- <b>Discrete Probabilistic Methods</b>
 
-<i>MATH 171</i>- <b>Real Analysis(Honours, WIM)</b>
+<i>MATH 171</i>- <b>Real Analysis (Honours, Writing in the Major)</b>
