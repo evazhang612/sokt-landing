@@ -5,11 +5,13 @@ permalink: /build
 ---
 
 ## Technical Interests 
-I'm at the moment focused on learning about Explainable AI and Cybersecurity. 
+I'm at the moment focused on learning about AI Interpretability and Cybersecurity. 
+
+<!-- I'm currently researching in the [Zou Group](https://zou-group.github.io/). -->
 
 Previously I've worked on projects in Deep Learning research @[Stanford ML](https://stanfordmlgroup.github.io/)(Professor Andrew Ng's research group, Coauthor NeurIPS 2019 Climate 19'), @[World Bank Group](https://www.worldbank.org/) ([Famine Prediction](https://www.worldbank.org/en/programs/famine-early-action-mechanism)), and [Stanford Center for Biomedical Informatics Research](https://bmir.stanford.edu/) (EHR Patient Outcomes, Primary Coauthor WiML 18'). Last summer, I worked on improving image label granularity for company-wide [Vision Semantic Service @ Google](https://images.google.com/) (visual search applications include Lens, Vision AI, OCR). Freshman summer I worked on Genome Assembly software for [Stanford Biology](https://www.morrisonlabatstanford.org/) and worked on a deep learning project at a startup called Omniscience. 
-
-I came into Stanford interested in Bioengineering / Health Policy, and took Chemistry, Philosophy, and Energy Policy first quarter. Community and mentorship were (and are) important to how my interests evolved. Here's a [brief instagram snippet](https://www.instagram.com/p/B7kewSMh4MH/) from Stanford Women in CS on how I got started in Computer Science. Always happy to chat and share my experiences if you're unsure what a path in CS could look like! 
+<!-- 
+I came into Stanford interested in Bioengineering / Health Policy, and took Chemistry, Philosophy, and Energy Policy first quarter. Community and mentorship were (and are) important to how my interests evolved. Here's a [brief instagram snippet](https://www.instagram.com/p/B7kewSMh4MH/) from Stanford Women in CS on how I got started in Computer Science. Always happy to chat and share my experiences if you're unsure what a path in CS could look like!  -->
 
 ## Sample Technical Courses 
 I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanford listed under [CS81SI](https://cs81si.stanford.edu) in Spring 2020, with the invaluable support of my faculty sponsors Professor [James Zou](https://www.james-zou.com/) and Professor [Omer Reingold](https://omereingold.wordpress.com/). If you want more information about the course, please feel free to reach out to me. 
@@ -31,6 +33,8 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 <i>CS 236</i> - <b>Deep Generative Models</b>, Project on Entropy Regularization in Conditional GANs 
 
 <i>CS 255</i> - <b>Cryptography</b>
+
+<i>MATH 63DM</i> - <b>Modern Mathematics: Discrete Methods</b>
 
 <i>MATH 104</i> - <b>Applied Matrix Theory</b> 
 
