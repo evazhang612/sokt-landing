@@ -34,7 +34,7 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 
 <i>CS 255</i> - <b>Cryptography</b>
 
-<i>MATH 63DM</i> - <b>Modern Mathematics: Discrete Methods</b>
+<i>MATH DM</i> - <b>Modern Mathematics: Discrete Methods</b>
 
 <i>MATH 104</i> - <b>Applied Matrix Theory</b> 
 
