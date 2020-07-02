@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Miscellaneous Reads
+title: Some Miscellaneous Research Reads
 permalink: /csreads/
 ---
-
-## Some Miscellaneous Research Reads
 
 A mishmash of some current favourite cs and research related links. 
 
 [Slate Star Codex](https://slatestarcodex.com/)
+
 Edit: Blog taken down for now, reason listed on the blog. 
 
 [Less Wrong](https://www.lesswrong.com/)
 
 [Math3ma](https://www.math3ma.com/blog/)
+
 Intuitive posts on undergraduate and graduate mathematics (e.g. Category Theory, Algebra and Topology), one of my favourites on Group Isomophorism Theorems [here](https://www.math3ma.com/blog/the-first-isomorphism-theorem-intuitively). 
 
 
@@ -24,11 +24,13 @@ Intuitive posts on undergraduate and graduate mathematics (e.g. Category Theory,
 [Gradient](https://thegradient.pub/)
 
 [NLP Progress](http://nlpprogress.com/) 
+
 If anyone knows of one for CV or RL, please let me know! 
 
 [Papers with Code](https://paperswithcode.com/)
 
 [Paperscape](https://paperscape.org/)
+
 Similar to Connected Papers, with visualization, interesting for macro view.
 
 [Connected Papers](https://www.connectedpapers.com/)
