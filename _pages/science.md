@@ -1,12 +1,10 @@
 ---
 layout: page
-title:  
+title: Some Miscellaneous Research Reads
 permalink: /csreads/
 ---
 
-## Some Miscellaneous Research Reads
-
-A mishmash of some current favourite cs and research related links. 
+A mishmash of some current favourite cs and research related links.
 
 [Slate Star Codex](https://slatestarcodex.com/) Edit: Blog taken down for now, reason listed on the blog. 
 
