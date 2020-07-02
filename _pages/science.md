@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous Reads
-permalink: /rreads/
+permalink: /csreads/
 ---
 
 ## Some Miscellaneous Research Reads
