@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Some Miscellaneous Research Reads
+title: 
 permalink: /csreads/
 ---
+
+## Some Miscellaneous Research Reads
 
 A mishmash of some current favourite cs and research related links. 
 
