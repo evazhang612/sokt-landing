@@ -16,9 +16,6 @@ Edit: Blog taken down for now, reason listed on the blog.
 
 Intuitive posts on undergraduate and graduate mathematics (e.g. Category Theory, Algebra and Topology), one of my favourites on Group Isomophorism Theorems [here](https://www.math3ma.com/blog/the-first-isomorphism-theorem-intuitively). 
 
-
-## Machine Learning
-
 [Distill](https://distill.pub/)
 
 [Gradient](https://thegradient.pub/)
