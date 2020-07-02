@@ -12,7 +12,7 @@ Edit: Blog taken down for now, reason listed on the blog.
 
 [Less Wrong](https://www.lesswrong.com/)
 
-[Math3ma](https://www.math3ma.com/blog/)
+[Math3ma](https://www.math3ma.com/categories)
 
 Intuitive posts on undergraduate and graduate mathematics (e.g. Category Theory, Algebra and Topology), one of my favourites on Group Isomophorism Theorems [here](https://www.math3ma.com/blog/the-first-isomorphism-theorem-intuitively). 
 
