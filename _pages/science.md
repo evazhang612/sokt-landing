@@ -4,7 +4,7 @@ title: Some Miscellaneous Research Reads
 permalink: /csreads/
 ---
 
-A mishmash of some current favourite cs and research related links.
+A mishmash of some current favourite cs and research related links. Clean, concise, and intuitive technical writing is still much needed. 
 
 [Slate Star Codex](https://slatestarcodex.com/) Edit: Blog taken down for now, reason listed on the blog. 
 
