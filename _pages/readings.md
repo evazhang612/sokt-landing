@@ -3,7 +3,9 @@ layout: page
 title: Readings
 permalink: /read/
 ---
-Ongoing list of some all-time favourites and other iconic readings. The life ones are paired with songs to read to. My (current) favourite cs links can be found [here](https://www.evazhang.com/csreads).
+Currently making my way slowly through Infinite Jest and On the Road. Looking for fun, longer reads. 
+
+Ongoing list of some all-time favourites and other iconic readings. The life ones are paired with songs to read to. My (current) favourite cs links can be found [here](https://www.evazhang.com/csreads). 
 
 I do not necessarily agree with all of the thoughts included in readings below. Thanks to anyone who recommended readings on this list! Suggestions always welcome. 
 
