@@ -5,16 +5,18 @@ permalink: /build
 ---
 
 ## Technical Interests 
-I'm at the moment focused on learning about AI Interpretability and Cybersecurity. 
+I'm at the moment focused on learning about AI Interpretability and Fairness. 
 
 One recent project I was involved with is Stanford's Input on the European Commission White Paper "On Artifical Intelligence - European Approach to excellence and trust." The paper can be found on Stanford's Human-Centered Artifical Intelligence policy page [here](https://hai.stanford.edu/sites/default/files/2020-06/StanfordWonks%26TechiesEUAIWhitePaper.pdf). 
+
+I'm currently doing research at the Stanford AI Lab, advised by Prof. Zou. One recent project I worked on is the effect of competing multi-agent feedback on learning can be found [here](https://arxiv.org/abs/2009.06797) and [here in blog post](https://hai.stanford.edu/blog/when-algorithms-compete-who-wins) format. 
 
 Previously I've worked on projects in Deep Learning research @[Stanford ML](https://stanfordmlgroup.github.io/)(Professor Andrew Ng's research group, Coauthor NeurIPS 2019 Climate 19'), @[World Bank Group](https://www.worldbank.org/) ([Famine Prediction](https://www.worldbank.org/en/programs/famine-early-action-mechanism)), and [Stanford Center for Biomedical Informatics Research](https://bmir.stanford.edu/) (EHR Patient Outcomes, Primary Coauthor WiML 18'). Last summer, I worked on improving image label granularity for company-wide [Vision Semantic Service @ Google](https://images.google.com/) (visual search applications include Lens, Vision AI, OCR). Freshman summer I worked on Genome Assembly software for [Stanford Biology](https://www.morrisonlabatstanford.org/) and worked on a deep learning project at a startup called Omniscience. 
 <!-- 
 I came into Stanford interested in Bioengineering / Health Policy, and took Chemistry, Philosophy, and Energy Policy first quarter. Community and mentorship were (and are) important to how my interests evolved. Here's a [brief instagram snippet](https://www.instagram.com/p/B7kewSMh4MH/) from Stanford Women in CS on how I got started in Computer Science. Always happy to chat and share my experiences if you're unsure what a path in CS could look like!  -->
 
 ## Sample Technical Courses 
-I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanford listed under [CS81SI](https://cs81si.stanford.edu) in Spring 2020, with the invaluable support of my faculty sponsors Professor [James Zou](https://www.james-zou.com/) and Professor [Omer Reingold](https://omereingold.wordpress.com/). For more information on the course, please feel free to reach out to me. 
+I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanford listed under [CS81SI](https://cs81si.stanford.edu) in Spring 2020, with the invaluable support of my faculty sponsors Professor [James Zou](https://www.james-zou.com/) and Professor [Omer Reingold](https://omereingold.wordpress.com/). For background on the class and similar class offerings, please check out this School of Engineering [post](https://engineering.stanford.edu/news/how-computer-science-department-teaching-ethics-its-students). For more information on the course, please feel free to reach out to me. 
 
 <i>CS 107, 109, 110, 161</i> - <b> All of CS Core </b> 
 
