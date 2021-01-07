@@ -30,7 +30,7 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 
 <i>CS 231N</i> - <b> Convolutional Neural Networks for Visual Recognition</b>, Project on Non-Linear Concept Vectors
 
-<i>CS 234</i> - <b> Reinforcement Learning</b>, Project on Intrinsict Motivation in Meta Learning
+<i>CS 234</i> - <b> Reinforcement Learning</b>, Project on Intrinsic Motivation in Meta Learning
 
 <i>CS 236</i> - <b>Deep Generative Models</b>, Project on Entropy Regularization in Conditional GANs 
 
