@@ -20,6 +20,8 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 
 <i>CS 107, 109, 110, 161</i> - <b> All of CS Core </b> 
 
+<i>CS 140</i> - <b>Operating Systems</b>
+
 <i>CS 144</i> - <b>Computer Networking</b> - Best TCP Sender Assignment Award
 
 <i>CS 205L</i> - <b>Continuous Methods in Machine Learning
@@ -42,6 +44,8 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 
 <i>MATH 120</i> - <b>Groups & Rings (Honours, Writing in the Major)</b>
 
+<i>MATH 121</i> - <b>Galois Theory</b>
+
 <i>MATH 148</i> - <b>Algebraic Topology </b>
 
 <i>MATH 158</i> - <b>Stochastic Processes</b> 
@@ -50,4 +54,6 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 
 <i>MATH 171</i> - <b>Real Analysis (Honours, Writing in the Major)</b>
 
-<i>MATH 231</i> - <b> Mathematics and Statistics of Gambling </b>
+<i>MATH 231</i> - <b>Mathematics and Statistics of Gambling </b>
+
+<i>MATH 233B</i> - <b>Topics in Combinatorics</b>
