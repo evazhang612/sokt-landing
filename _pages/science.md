@@ -14,6 +14,8 @@ A mishmash of some current favourite cs and research related links. Clean, conci
 
 [Distill](https://distill.pub/)
 
+[Debugging RL](https://andyljones.com/posts/rl-debugging.html)
+
 [Gradient](https://thegradient.pub/)
 
 [NLP Progress](http://nlpprogress.com/) If anyone knows of one for CV or RL, please let me know! 
