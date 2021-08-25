@@ -46,8 +46,5 @@ Some of my favourite movies of all time, listed in no particular order.
 
 - The Imitation Game
 
-The Laundromat
+- Bridget Jones's Diary
 
-Bridget Jones's Diary
-
-The King's Speech
