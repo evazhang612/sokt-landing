@@ -4,7 +4,8 @@ title: Favourite movies.
 permalink: /movies/
 ---
 
-Some of my favourite movies of all time (for one reason or another), listed in no particular order. Most if not all of them are fairly well-known. 
+Some of my favourite movies of all time (for one reason or another), listed in no particular order. To like any of these movies is not entirely original, but then again the point of liking something is not to be original. 
+
 
 - Ocean's 11/12 
 
