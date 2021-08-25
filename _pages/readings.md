@@ -5,7 +5,7 @@ permalink: /read/
 ---
 Currently making my way through [Infinite Jest](https://www.amazon.ca/Infinite-Jest-David-Foster-Wallace/dp/0316066524) and [On the Road](https://www.amazon.ca/Road-Jack-Kerouac/dp/0140042598). Looking for fun, longer reads. 
 
-Ongoing list of some all-time favourites and other iconic readings. The life ones are paired with songs to read to. My (current) favourite cs links can be found [here](https://www.evazhang.com/csreads). 
+Ongoing list of some all-time favourites and other iconic readings. The life ones are paired with songs to read to. My (current) favourite cs links can be found [here](https://www.evazhang.com/csreads). Here are some of my favourite [movies](https://www.evazhang.com/movies) of all time. 
 
 I do not necessarily agree with all of the thoughts included in readings below. Thanks to anyone who recommended readings on this list! Suggestions always welcome. 
 
