@@ -21,6 +21,8 @@ I do not necessarily agree with all of the thoughts included in readings below. 
 
 [Productivity Archive - Brad Feld](https://feld.com/archives/category/productivity)
 
+[What Should You Do With Your Life - Alex Guzey](https://guzey.com/personal/what-should-you-do-with-your-life/)
+
 
 ## How Do We Live & How Do Others Live? Vignettes
 
