@@ -2,7 +2,7 @@
 layout: default_landing
 ---
 
-I studied Mathematics (B.S) and Computer Science (M.S) at Stanford. Currently working on something new, stay tuned. This website may not be up to date. 
+I studied Mathematics (B.S) and Computer Science (M.S) at Stanford, and am currently interested in artificial intelligence, clean tech., and tech. policy. Stay tuned for something new. This website may not be up to date. 
 
 <!-- 
 I'm a **Master's student @ [Stanford](https://profiles.stanford.edu/eva-zhang)**, currently pursuing interests in mathematics, computer science, and tech. policy. Formally, I am pursuing a Master's in Computer Science (AI track), and completed a Bachelor's in Mathematics. Check out my [Build](https://www.evazhang.com/build) page for more specific technical experiences.
