@@ -9,7 +9,7 @@ I'm a **Master's student @ [Stanford](https://profiles.stanford.edu/eva-zhang)**
  -->
 I studied Mathematics (B.S) and Computer Science (M.S) at Stanford. Here are some places and communities I've spent some time at. 
 
-<img src="images/newPresentation1.jpg" width="500"/>
+<img src="images/Presentation2.jpg" width="500"/>
 
 <!-- I've lived in Vancouver, Canada, Shanghai, China, and most recently Stanford, USA. 
  -->
