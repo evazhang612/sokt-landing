@@ -2,11 +2,15 @@
 layout: default_landing
 ---
 
+Currently working on something new, stay tuned. This website may not be up to date. 
+
+I studied Mathematics (B.S) and Computer Science (M.S) at Stanford. 
+<!-- 
 I'm a **Master's student @ [Stanford](https://profiles.stanford.edu/eva-zhang)**, currently pursuing interests in mathematics, computer science, and tech. policy. Formally, I am pursuing a Master's in Computer Science (AI track), and completed a Bachelor's in Mathematics. Check out my [Build](https://www.evazhang.com/build) page for more specific technical experiences.
+ -->
+Here are some places and communities I've spent some time at. 
 
-Here are some places I've spent some time at. 
-
-<img src="images/Presentation1.jpg" width="500"/>
+<img src="images/newPresentation1.jpg" width="500"/>
 
 <!-- I've lived in Vancouver, Canada, Shanghai, China, and most recently Stanford, USA. 
  -->
@@ -20,7 +24,7 @@ Courses I've enjoyed at Stanford include *Groups & Rings, Biodesign Ventures, En
 
 <!-- In a past life, I have spent a sizable amount of time travelling for Model UN and debate. Arguing with people has given me useful practice for defending my questionable (or so I have been told) [music](https://open.spotify.com/user/evazhung?si=zAJdV4WNRiWQr3CUW8qswQ) and productivity habits in college. I'm not putting these on the Internet for fear of reader retaliation, happy to chat more offline.  -->
 
-I'm currently working on a few projects for 2021. I would especially love to chat if you are interested in or have experience in algorithmic policy and AI fairness & interpretability. 
+<!-- I'm currently working on a few projects for 2021. I would especially love to chat if you are interested in or have experience in algorithmic policy and AI fairness & interpretability.  -->
 
 <!-- When choosing work, I prioritize learning. -->
 
