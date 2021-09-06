@@ -2,6 +2,16 @@
 layout: default_landing
 ---
 
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"></script>
+
+<script>
+    anchors.options.placement = 'left';
+    anchors.add('.post-content > h2, .post-content > h3, .post-content > h4, .post-content > h5, .post-content > h6');
+  </script>
+</body>
+
+
 I am currently pursuing interests in artificial intelligence, clean tech., and tech. policy. Stay tuned for something new. 
 
 <!-- 
