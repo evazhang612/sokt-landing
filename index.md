@@ -28,7 +28,7 @@ Courses I've enjoyed at Stanford include *Groups & Rings, Biodesign Ventures, En
 
 <!-- When choosing work, I prioritize learning. -->
 
-You can find my [substack](https://evaz.substack.com) here. 
+You can find my [substack](https://evaz.substack.com) below. 
 
 <div style="display: flex; justify-content: center;">
     <iframe src="https://evaz.substack.com/embed" width="480" height="200" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
