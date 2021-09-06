@@ -2,6 +2,10 @@
 # This file contains configuration flags to customize your site
 #
 
+
+courses: "http://www.evazhang.com/courses"
+
+
 # Name of your site (displayed in the header)
 name: Eva Zhang       
 

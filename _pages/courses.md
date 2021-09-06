@@ -12,7 +12,7 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 
 I have been asked for class recommendations and 4 year plans a few times, and compiled the below for anyone else curious. 
 
-As a general rule of thumb, I tried to take interesting classes with content hard to master on my own. Sounds like an intuitive thing, but a bit hard to follow since everyone feels a bit pressured to lay out a 4 year plan the day before Freshman year even started. 
+As a general rule of thumb, I tried to take interesting classes with content hard to master on my own. Sounds like an intuitive thing, but hard to follow since everyone feels a bit pressured to lay out a 4 year plan the day before Freshman year even started. 
 
 which had content I would find interesting and more difficult to master on my own. (This also goes for interesting topics or people I wouldn't otherwise meet). I then chose the major based on the classes I took the most, and then filled in the gaps with the major requirements. 
 
