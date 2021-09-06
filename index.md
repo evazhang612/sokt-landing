@@ -8,7 +8,7 @@ I am currently pursuing interests in artificial intelligence, clean tech., and t
 <!-- 
 I'm a **Master's student @ [Stanford](https://profiles.stanford.edu/eva-zhang)**, currently pursuing interests in mathematics, computer science, and tech. policy. Formally, I am pursuing a Master's in Computer Science (AI track), and completed a Bachelor's in Mathematics. Check out my [Build](https://www.evazhang.com/build) page for more specific technical experiences.
  -->
-I studied Mathematics (B.S) and Computer Science (M.S) at <a href="#" data-toggle="tooltip" data-original-title="Click here to see classes I took.">Stanford</a> Here are some places and communities I've spent some time at. 
+I studied Mathematics (B.S) and Computer Science (M.S) at Stanford. Here are some places and communities I've spent some time at. 
 
 <img src="images/newPresentation1.jpg" width="500"/>
 
