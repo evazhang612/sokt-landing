@@ -7,7 +7,7 @@ I am currently pursuing interests in artificial intelligence, clean tech., and t
 <!-- 
 I'm a **Master's student @ [Stanford](https://profiles.stanford.edu/eva-zhang)**, currently pursuing interests in mathematics, computer science, and tech. policy. Formally, I am pursuing a Master's in Computer Science (AI track), and completed a Bachelor's in Mathematics. Check out my [Build](https://www.evazhang.com/build) page for more specific technical experiences.
  -->
-I studied Mathematics (B.S) and Computer Science (M.S) at Stanford. Here are some places and communities I've spent some time at. 
+I studied Mathematics (B.S) and Computer Science (M.S) at <a href="#" data-toggle="tooltip" data-original-title="Click here to see classes I took.">Stanford</a> Here are some places and communities I've spent some time at. 
 
 <img src="images/newPresentation1.jpg" width="500"/>
 
@@ -27,10 +27,18 @@ Courses I've enjoyed at Stanford include *Groups & Rings, Biodesign Ventures, En
 
 <!-- When choosing work, I prioritize learning. -->
 
-I've recently started a [substack](https://evaz.substack.com) to document my thoughts more in 2021. Websites are great, but there's always something special about chatting in person (read: Zoom, for now). 
-
-I always find it refreshing to hear new perspectives - feel free to reach out by email! You can also leave anonymous feedback for me [here 💭](https://www.evazhang.com/feedback/). 
+You can find my [substack](https://evaz.substack.com) here. I haven't been writing in public as often recently but may start to do so. 
 
 <div style="display: flex; justify-content: center;">
     <iframe src="https://evaz.substack.com/embed" width="480" height="200" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 </div> 
+
+
+You can leave anonymous feedback for me, good or bad,[here 💭](https://www.evazhang.com/feedback/). Hearing new perspectives is always refreshing - feel free to reach out to me by email! 
+
+<!-- 
+I've recently started a [substack](https://evaz.substack.com) to document my thoughts more in 2021. Websites are great, but there's always something special about chatting in person (read: Zoom, for now). 
+
+I always find it refreshing to hear new perspectives - feel free to reach out by email! You can also leave anonymous feedback for me [here 💭](https://www.evazhang.com/feedback/). 
+
+ -->
