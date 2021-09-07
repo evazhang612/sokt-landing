@@ -4,7 +4,7 @@ title: What To Take
 permalink: /wtt/
 ---
 
-## Thoughts on majors and classes for people who are me at Stanford.  
+### Thoughts on majors and classes for people who are me at Stanford.  
 
 I have been asked for class recommendations and 4 year plans a few times, and compiled the below for anyone else curious. Picking classes seem like a fairly small matter to be concerned with in hindsight, but I took it quite seriously (and perhaps people reading this share this interest) earlier on at Stanford. 
 
