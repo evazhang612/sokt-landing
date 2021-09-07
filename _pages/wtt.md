@@ -32,9 +32,9 @@ I was sweating profusely the day before starting Freshman year with no idea what
 
 This post probably won't help that much. Chances are, you're probably fine academically regardless of whether you take Course A before Course B, and vice versa. It certainly feels comforting to know there's some sort of a system to things, and this is what I ended up with. 
 
-One final thing: if you can, going general could be best, especially if you see yourself applying knowledge on your own time. Obviously this statement would be stronger coming from someone who went to a truly liberal arts college. The classes where I learned theoretical frameworks or concepts were better for my mental development that I couldn't have gotten to on my own. This doesn't mean a particular discipline, but rather how classes are taught. 
+One final thing: if you can, going general could be best, especially if you see yourself applying knowledge on your own time. Obviously this statement would be stronger coming from someone who went to a truly liberal arts college. The classes where I learned theoretical frameworks or concepts were better for my mental development that I couldn't have gotten to on my own. 
 
-Math happened to be one of the disciplines where this is more often the case. I liked a lot of the general or theoretical abstractions in math despite being bad with them, and lots of people better-versed than I have spoken at length about the values of learning math in college. Another post I liked a lot about college is PG's essay and advice [here](http://www.paulgraham.com/college.html). 
+Choosing "general" curricula doesn't necessitate a particular discipline, but rather how classes are taught. Math happened to be one of the disciplines where this is more often the case. I liked a lot of the general or theoretical abstractions in math despite being bad with them, and lots of people better-versed than I have spoken at length about the values of learning math in college. Another post I liked a lot about college is PG's essay and advice [here](http://www.paulgraham.com/college.html). 
 
 
 
