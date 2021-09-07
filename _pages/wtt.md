@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What To Take 
-permalink: courses/wtt/
+permalink: /wtt/
 ---
 
 ## Thoughts on majors and classes for people who are me at Stanford.  
