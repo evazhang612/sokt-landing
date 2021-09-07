@@ -30,7 +30,7 @@ Finally, a lot of this probably won't matter (caveat: over a short period of tim
 
 I was sweating profusely the day before starting Freshman year with no idea what I wanted to major in or what to take. I ended up taking Chemistry, Philosophy, and Energy Policy, one of which replaced an AP credit I already have, and 2 of which didn't end up being used in anything. I ended up switching majors and focuses multiple times Freshman year, but then once I locked down my interests began doubling down on classes (e.g. 2-3 CS+Math classes per quarter). There really isn't any particular learning here except perhaps your Freshman year at Stanford academically probably won't break anything.  
 
-This post probably won't change that much. Chances are, you're probably fine academically regardless of whether you take Course A before Course B, and vice versa. It certainly feels comforting to know there's some sort of a system to things, and this is what I ended up with. 
+ Chances are, you're probably fine academically regardless of whether you take Course A before Course B, and vice versa. It certainly feels comforting to know there's some sort of a system to things, and this is what I ended up with. 
 
 One final thing: if you can, going general could be best, especially if you see yourself applying knowledge on your own time. Obviously this statement would be stronger coming from someone who went to a truly liberal arts college. The classes where I learned theoretical frameworks or concepts were better for my mental development that I couldn't have gotten to on my own. 
 
