@@ -10,7 +10,7 @@ I proposed, designed and taught CS81SI AI Interpretability & Fairness at Stanfor
 
 ## Relevant CS / Math Courses
 
-I graduated from a B.S in Math and M.S in CS in \~4 years. If you are a current Stanford student deciding on courses and majors, I wrote up some [thoughts](https://www.evazhang.com/wtt) that were helpful in guiding my selection. 
+I graduated from a B.S in Math and M.S in CS. If you are a current Stanford student deciding on courses and majors, I wrote up some [thoughts](https://www.evazhang.com/wtt) that were helpful in guiding my selection. 
 
 <i>CS 107, 109, 110, 161</i> - <b> All of CS Core </b> 
 
