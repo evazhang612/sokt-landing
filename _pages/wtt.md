@@ -34,7 +34,7 @@ This post probably won't help that much. Chances are, you're probably fine acade
 
 One final thing: if you can, going general could be best, especially if you see yourself applying knowledge on your own time. Obviously this statement would be stronger coming from someone who went to a truly liberal arts college. The classes where I learned theoretical frameworks or concepts were better for my mental development that I couldn't have gotten to on my own. 
 
-Choosing "general" curricula doesn't necessitate a particular discipline, but rather how classes are taught. Math happened to be one of the disciplines where this is more often the case. I liked a lot of the general or theoretical abstractions in math despite being bad with them, and lots of people better-versed than I have spoken at length about the values of learning math in college. Another post I liked a lot about college is PG's essay and advice [here](http://www.paulgraham.com/college.html). 
+Choosing "general" curricula doesn't necessitate a particular discipline, but rather how classes are taught. Math happened to be one of the disciplines where this is more often the case. I liked a lot of the general or theoretical abstractions in math despite being bad with them, and lots of people better-versed than I have spoken at length about the values of learning math in college, even if you don't do research or stay in the discipline. Another post I liked a lot about college is PG's essay and advice [here](http://www.paulgraham.com/college.html). 
 
 
 
