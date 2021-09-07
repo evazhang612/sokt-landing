@@ -8,6 +8,8 @@ permalink: /wtt/
 
 I have been asked for class recommendations and 4 year plans a few times, and compiled the below for anyone else curious. Picking classes seem like a fairly small matter to be concerned with in hindsight, but I took it quite seriously (and perhaps people reading this share this interest) earlier on at Stanford. 
 
+The below probably only is useful for people earlier on at Stanford - by the time you hit midway, you probably already know the academic system well enough without these heuristics. 
+
 As a general rule of thumb, I tried to take interesting classes with content hard to master on my own. Sounds like an intuitive thing, but hard to follow since everyone feels a bit pressured to lay out a 4 year plan in sequence the day before Freshman year even started, and sometimes these don't map to the same criteria. (This also goes for interesting topics or people I wouldn't otherwise meet.) After selecting classes, I chose the major based on the classes I took the most, and then filled in the gaps with the major requirements. 
 
 This meant that most of the time, I took electives before the core and sometimes self-studied prerequisites to skip to the stuff I find interesting or to be able to take classes with professors I want to learn from. Execution of a class is sometimes just (if not more) important than the content it contained. This can be especially advantageous if your major offers classes with professors you want to learn from, once a year or once every 2 years. I didn't want to wait 2 years for all the stars to align. 
