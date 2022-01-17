@@ -54,7 +54,7 @@ I always find it refreshing to hear new perspectives - feel free to reach out by
 <!-- Ending click counter. --> 
 
 
-Note: if you saw this via a Google ad - I'm doing a small AB experiment on search results for fun. Click the below to vote if you saw this via an ad.
+Note: if you saw this via a Google ad - I'm doing a small AB experiment on search results for fun. Click the below to vote on whether you saw my website through an ad.
 
 
 
