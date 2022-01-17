@@ -37,4 +37,16 @@
 	twq('track','PageView');
 	</script>
 	<!-- End Twitter universal website tag code -->
+
+	<!-- Adding click fn code for counter --> 
+	<script> 
+	var clicks = 0;
+
+	function onClick() {
+	  clicks += 1;
+	  document.getElementById("clicks").innerHTML = clicks;
+	};
+	</script>
+	<!-- Ending click counter. --> 
+
 {% endif %}

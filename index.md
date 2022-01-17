@@ -42,4 +42,4 @@ I've recently started a [substack](https://evaz.substack.com) to document my tho
 
 I always find it refreshing to hear new perspectives - feel free to reach out by email! You can also leave anonymous feedback for me [here 💭](https://www.evazhang.com/feedback/). 
 
-
+Note: if you saw this via a Google ad - I'm doing a small AB experiment on search results for fun. Click <button type="button" onClick="onClick()">here</button> if you saw this via an ad. 
