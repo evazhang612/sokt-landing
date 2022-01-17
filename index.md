@@ -54,4 +54,10 @@ I always find it refreshing to hear new perspectives - feel free to reach out by
 <!-- Ending click counter. --> 
 
 
-Note: if you saw this via a Google ad - I'm doing a small AB experiment on search results for fun. Click <button type="button" onClick="onClick()" name="button" class="btn">here</button> if you saw this via an ad. 
+Note: if you saw this via a Google ad - I'm doing a small AB experiment on search results for fun. Click the below to vote if you saw this via an ad.
+<!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-theme="google" data-i18n_like="ad" data-ef_voting="push" data-white_label="true" data-identifier="item_1" data-counter_type="percent"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END --> 
+
+
