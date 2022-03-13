@@ -44,7 +44,7 @@ and acquiring users.
 	- taping QR code posters for user studies in the wild  
 	- recruiting user feedback manually at events  
 	- live-calling users and walking them through demos 
-</summary>
+</details> 
 
 
 
