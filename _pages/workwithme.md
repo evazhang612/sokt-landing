@@ -8,7 +8,7 @@ Inspired by the page from [Ben Kuhn](https://www.benkuhn.net/work/).
 
 I am part of a team trying out a new way of thinking about social networks, particularly around moderation, security, and ads. Our first iteration of this experiment will start with web3 profiles. 
 
-If you are interested in helping, send an email to hello [at] evazhang.com with the subject [ProfilePlug - Your Name]. If you want to stand out send it with a 1-liner on the weirdest thing about you. 
+If you are interested in helping, send an email to hello [at] evazhang.com with the subject [ProfilePlug - Your Name]. Bonus if you send a 1-liner on the weirdest thing about you :) 
 
 <details>
 <summary>Software (Several Projects)</summary>
