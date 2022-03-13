@@ -12,6 +12,7 @@ If you are interested in helping, send an email to hello [at] evazhang.com with 
 
 <details>
 <summary>Various software projects</summary>
+
 - Full stack (Web), Back-end, Protocol 
 -Javascript, C++ 
 -Solidity and Rust are bonus but not required  
@@ -29,6 +30,7 @@ protocol.
 
 <details>
 <summary>Growth></summary>
+
 -We are interested in someone who can own growth and enjoy
 experimenting with new and unconventional ways for growth. 
 -You will get to own growth. This means you enjoy running new
