@@ -11,7 +11,7 @@ I am part of a team trying out a new way of thinking about social networks, part
 If you are interested in helping, send an email to hello [at] evazhang.com with the subject [ProfilePlug - Your Name]. If you want to stand out send it with a 1-liner on the weirdest thing about you. 
 
 <details>
-<summary>Various software projects</summary>
+<summary>Software (Several Projects)</summary>
 
 - Full stack (Web), Back-end, Protocol 
 -Javascript, C++ 
