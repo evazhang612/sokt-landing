@@ -29,7 +29,7 @@ protocol.
 
 
 <details>
-<summary>Growth></summary>
+<summary>Growth</summary>
 
 -We are interested in someone who can own growth and enjoy
 experimenting with new and unconventional ways for growth. 
