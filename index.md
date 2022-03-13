@@ -4,7 +4,7 @@ layout: default_landing
 
 I am currently part of a team experimenting with a new way of powering up social networks. 
 
-If you are interested in helping build out our experiment, particularly if you are someone interested in software engineering, growth, or tokenomics, reach out! See more via the build <a href="workwithme" data-toggle="tooltip" data-original-title="{{site.build}}">page</a>. 
+If you are interested in helping build out our experiment, particularly if you are someone interested in software engineering, growth, or tokenomics, reach out! See more via the build <a href="build" data-toggle="tooltip" data-original-title="{{site.build}}">page</a>. 
 
 <!-- 
 I'm a **Master's student @ [Stanford](https://profiles.stanford.edu/eva-zhang)**, currently pursuing interests in mathematics, computer science, and tech. policy. Formally, I am pursuing a Master's in Computer Science (AI track), and completed a Bachelor's in Mathematics. Check out my [Build](https://www.evazhang.com/build) page for more specific technical experiences.
