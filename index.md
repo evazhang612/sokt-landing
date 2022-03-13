@@ -2,9 +2,11 @@
 layout: default_landing
 ---
 
+I am currently part of a team experimenting with a new way of powering up social networks. 
 
-I am currently pursuing interests in artificial intelligence, clean tech., and tech. policy. Stay tuned for something new. 
+If you are interested in helping build out our experiment, particularly if you are someone interested in software engineering, growth, or tokenomics, reach out! See more via the <a href="workwithme" data-toggle="tooltip" data-original-title="{{site.work}}">work with me page</a>
 
+The best way to reach me is by email, hello [at] evazhang.com. I generally try to get back to people, including cold emails. if I don't reply within 2 days, feel free to ping me again. I get back quicker to short emails with clear asks.
 <!-- 
 I'm a **Master's student @ [Stanford](https://profiles.stanford.edu/eva-zhang)**, currently pursuing interests in mathematics, computer science, and tech. policy. Formally, I am pursuing a Master's in Computer Science (AI track), and completed a Bachelor's in Mathematics. Check out my [Build](https://www.evazhang.com/build) page for more specific technical experiences.
  -->
