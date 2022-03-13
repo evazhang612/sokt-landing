@@ -2,7 +2,7 @@
 layout: default_landing
 ---
 
-I am currently part of a team experimenting with a new way of powering up social networks. 
+I am currently part of a team experimenting with new ways of powering up social networks. 
 
 If you are interested in helping build out our experiment, particularly if you are someone interested in software engineering, growth, or tokenomics, reach out! See more via the build <a href="build" data-toggle="tooltip" data-original-title="{{site.build}}">page</a>. 
 
