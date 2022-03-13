@@ -23,10 +23,12 @@ at more than one of the above.
 -If you are more into the theory side of things, there will
 be opportunities to contribute to an ongoing whitepaper for the 
 protocol. 
+</details>
+
 
 
 <details>
-<summary>Growth>
+<summary>Growth></summary>
 -We are interested in someone who can own growth and enjoy
 experimenting with new and unconventional ways for growth. 
 -You will get to own growth. This means you enjoy running new
@@ -40,9 +42,9 @@ and acquiring users.
 	 -taping QR code posters for user studies in the wild  
 	 -recruiting user feedback manually at events  
 	 -live-calling users and walking them through demos 
+</summary>
 
 
-	 
 
 If you are someone with skills not included in the above but are interested in what we mentioned above and want to help, feel free to reach out. We care highly about the quality of our teammates rather than a specific mold of a profile. 
 
