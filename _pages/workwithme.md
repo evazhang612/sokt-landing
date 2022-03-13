@@ -69,4 +69,4 @@ If you are someone with skills not included in the above but are interested in w
 
 I care a lot about the long-term impact of my work. Previously I was part of efforts working on engineering for climate modelling, famine-prediction, healthcare, and AI safety. I spent (and still spend) time thinking about how to effectively align science, public goods, and long-term innvoation with incentives. 
 
-If you share similar priorities and aren't sure about social networks as an area for focus, I would encourage you to reach out and chat more about why I think social networks are important. 
+If you share similar priorities and aren't sure about social networks as an area for focus, I would love for you to reach out and share more.
