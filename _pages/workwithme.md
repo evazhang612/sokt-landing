@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Work With Me 
-permalink: /work
+permalink: /build
 ---
 
 Inspired by the page from [Ben Kuhn](https://www.benkuhn.net/work/). 
