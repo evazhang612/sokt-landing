@@ -13,7 +13,8 @@ If you are interested in helping, send an email to hello [at] evazhang.com with 
 <details>
 <summary>Software (Several Projects)</summary>
 
-- Full stack (Web), Back-end, Protocol
+<ul>
+  <li> Full stack (Web), Back-end, Protocol <li> 
 - Javascript, C++ 
 - Solidity and Rust are bonus but not required  
 - No particular type of degree required, we will
