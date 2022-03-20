@@ -696,15 +696,16 @@ Modules - reusable parts of our design
   line-height: 1;
 }
 
+/* form */ 
 .form-style-6{
-  font: 95% Arial, Helvetica, sans-serif;
+  font: 95% Work-Sans sans-serif;
   max-width: 400px;
   margin: 10px auto;
   padding: 16px;
-  background: #F7F7F7;
+/*  background: #F7F7F7;*/
 }
 .form-style-6 h1{
-  background: #43D1AF;
+/*  background: #43D1AF;*/
   padding: 20px 0;
   font-size: 140%;
   font-weight: 300;
@@ -716,6 +717,7 @@ Modules - reusable parts of our design
 .form-style-6 input[type="date"],
 .form-style-6 input[type="datetime"],
 .form-style-6 input[type="email"],
+.form-style-6 input[type="twitter"],
 .form-style-6 input[type="number"],
 .form-style-6 input[type="search"],
 .form-style-6 input[type="time"],
@@ -732,11 +734,11 @@ Modules - reusable parts of our design
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   width: 100%;
-  background: #fff;
+/*  background: #fff;*/
   margin-bottom: 4%;
-  border: 1px solid #ccc;
+/*  border: 1px solid #ccc;*/
   padding: 3%;
-  color: #555;
+/*  color: #555;*/
   font: 95% Arial, Helvetica, sans-serif;
 }
 .form-style-6 input[type="text"]:focus,
