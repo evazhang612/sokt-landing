@@ -707,15 +707,15 @@ Modules - reusable parts of our design
   padding: 16px;
 /*  background: white;*/
 }
-.form-style-6 h1{
-  color: white;
+/*.form-style-6 h1{*/
+/*  color: white;*/
 /*  padding: 20px 0;
   font-size: 140%;
   font-weight: 300;
   text-align: center;
   color: #fff;
   margin: -16px -16px 16px -16px;*/
-}
+/*}*/
 .form-style-6 input[type="text"],
 .form-style-6 input[type="date"],
 .form-style-6 input[type="datetime"],
@@ -788,6 +788,7 @@ Modules - reusable parts of our design
   margin: 10px auto;
   padding: 16px;
   background: blue;
+  color: white;
 }
 /*.form-style-6 h1{
   background: blue;
@@ -824,7 +825,7 @@ Modules - reusable parts of our design
   border: 1px solid #ccc;
   padding: 3%;
   color: #555;
-  font: 95% Arial, Helvetica, sans-serif;
+  font: 95% Work-Sans sans-serif;
 }
 .form-style-6 input[type="text"]:focus,
 .form-style-6 input[type="date"]:focus,
@@ -855,7 +856,6 @@ Modules - reusable parts of our design
   border-right-style: none;
   border-left-style: none;  
   border-radius: 25px
-  background-color: blue;
 }
 .form-style-6 input[type="submit"]:hover,
 .form-style-6 input[type="button"]:hover{
@@ -870,10 +870,7 @@ Modules - reusable parts of our design
   border-right-style: none;
   border-left-style: none;  
   border-radius: 25px
-  background-color: blue;
 }
-
-
 
 .carbon-img img {
   display: block;
