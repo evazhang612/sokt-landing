@@ -702,7 +702,7 @@ Modules - reusable parts of our design
   max-width: 400px;
   margin: 10px auto;
   padding: 16px;
-/*  background: #F7F7F7;*/
+  background: blue;
 }
 .form-style-6 h1{
   padding: 20px 0;
@@ -765,7 +765,7 @@ Modules - reusable parts of our design
   -moz-box-sizing: border-box;
   width: 100%;
   padding: 3%;
-/*  background: #43D1AF;*/
+  background: #43D1AF;
   border-bottom: 2px solid #30C29E;
   border-top-style: none;
   border-right-style: none;
@@ -780,9 +780,6 @@ Modules - reusable parts of our design
   -moz-box-sizing: border-box;
   width: 100%;
   padding: 3%;
-}
-
-
   max-width: 400px;
   margin: 10px auto;
   padding: 16px;
