@@ -702,7 +702,7 @@ Modules - reusable parts of our design
   max-width: 400px;
   margin: 10px auto;
   padding: 16px;
-  background: #F7F7F7;
+/*  background: #F7F7F7;*/
 }
 .form-style-6 h1{
   padding: 20px 0;
@@ -775,13 +775,12 @@ Modules - reusable parts of our design
 }
 .form-style-6 input[type="submit"]:hover,
 .form-style-6 input[type="button"]:hover{
-  background: #2EBC99;
+/*  background: #2EBC99;*/
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   width: 100%;
   padding: 3%;
 }
-
 
 
   max-width: 400px;
@@ -790,7 +789,7 @@ Modules - reusable parts of our design
   background: #F7F7F7;
 }
 .form-style-6 h1{
-  background: #43D1AF;
+/*  background: #43D1AF;*/
   padding: 20px 0;
   font-size: 140%;
   font-weight: 300;
@@ -818,7 +817,7 @@ Modules - reusable parts of our design
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   width: 100%;
-  background: #fff;
+/*  background: #fff;*/
   margin-bottom: 4%;
   border: 1px solid #ccc;
   padding: 3%;
@@ -848,16 +847,28 @@ Modules - reusable parts of our design
   -moz-box-sizing: border-box;
   width: 100%;
   padding: 3%;
-  background: #43D1AF;
+/*  background: #43D1AF;*/
   border-bottom: 2px solid #30C29E;
   border-top-style: none;
   border-right-style: none;
   border-left-style: none;  
-  color: #fff;
+  border-radius: 25px
+/*  color: #fff;*/
 }
 .form-style-6 input[type="submit"]:hover,
 .form-style-6 input[type="button"]:hover{
-  background: #2EBC99;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  width: 100%;
+  padding: 3%;
+/*  background: #43D1AF;*/
+  border-bottom: 2px solid #30C29E;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;  
+  border-radius: 25px
+/*  color: #fff;*/
 }
 
 
