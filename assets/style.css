@@ -18,7 +18,6 @@
 html {
   font-size: 100%;
   height: 100%;
-  background-color: #1831ff; 
 }
 
 .svg-icon.vsco {
@@ -48,10 +47,9 @@ body {
 }
 
 .container {
-  background-color: blue
   margin: 0 auto;
   max-width: 740px;
-  padding: 0;
+  padding: 0 10px;
   width: 100%;
 }
 
@@ -267,7 +265,6 @@ p > img {
   font-style: italic;
   color: $gray;
 }
-
 
 // Specify the color of the selection
 ::-moz-selection {
