@@ -698,6 +698,9 @@ Modules - reusable parts of our design
   line-height: 1;
 }
 
+.form-style-6 h1{
+}
+
 .form-style-6{
   font: 95% Work-Sans sans-serif;
   max-width: 400px;
