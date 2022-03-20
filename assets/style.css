@@ -737,8 +737,7 @@ Modules - reusable parts of our design
 /*  border: 1px solid #ccc;*/
   padding: 3%;
 /*  color: #555;*/
-  font: 95% Arial, Helvetica, sans-serif;
-
+  font: 95% Work-Sans sans-serif;
 }
 .form-style-6 input[type="text"]:focus,
 .form-style-6 input[type="date"]:focus,
