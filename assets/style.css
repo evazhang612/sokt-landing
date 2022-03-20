@@ -705,7 +705,7 @@ Modules - reusable parts of our design
   max-width: 400px;
   margin: 10px auto;
   padding: 16px;
-  background: white;
+/*  background: white;*/
 }
 .form-style-6 h1{
   color: white;
