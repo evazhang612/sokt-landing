@@ -698,14 +698,11 @@ Modules - reusable parts of our design
   line-height: 1;
 }
 
-
-
 .form-style-6{
   font: 95% Work-Sans sans-serif;
   max-width: 400px;
   margin: 10px auto;
   padding: 16px;
-/*  background: white;*/
 }
 /*.form-style-6 h1{*/
 /*  color: white;*/
@@ -769,7 +766,7 @@ Modules - reusable parts of our design
   -moz-box-sizing: border-box;
   width: 100%;
   padding: 3%;
-  background: #43D1AF;
+/*  background: #43D1AF;*/
   border-bottom: 2px solid #30C29E;
   border-top-style: none;
   border-right-style: none;
@@ -787,8 +784,8 @@ Modules - reusable parts of our design
   max-width: 400px;
   margin: 10px auto;
   padding: 16px;
-  background: blue;
-  color: white;
+/*  background: blue;*/
+/*  color: white;*/
 }
 /*.form-style-6 h1{
   background: blue;
@@ -864,7 +861,7 @@ Modules - reusable parts of our design
   -moz-box-sizing: border-box;
   width: 100%;
   padding: 3%;
-  background: #43D1AF;
+/*  background: #43D1AF;*/
   border-bottom: 2px solid #30C29E;
   border-top-style: none;
   border-right-style: none;
