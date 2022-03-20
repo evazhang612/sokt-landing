@@ -1,6 +1,8 @@
 ---
 layout: default_landing
 ---
+
+
 <!-- 
 I am currently part of a team experimenting with new ways of powering up social networks. 
 
@@ -57,10 +59,5 @@ I've recently started a [substack](https://evaz.substack.com) to document my tho
 <!-- 
 Note: if you saw this via a Google ad - I'm doing a small AB experiment on search results for fun. Click the below to vote on whether you saw my website through an ad. -->
 
-
-<!-- LikeBtn.com BEGIN -->
-<span class="likebtn-wrapper" data-theme="google" data-i18n_like="ad" data-ef_voting="push" data-white_label="true" data-identifier="item_1" data-counter_type="percent" data-i18n_dislike="Not ad" data-i18n_after_like="Ad" data-i18n_after_dislike="Not ad" data-i18n_like_tooltip="ad" data-i18n_dislike_tooltip="Not ad" data-i18n_unlike_tooltip="ad" data-i18n_undislike_tooltip="Not ad"></span>
-<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
-<!-- LikeBtn.com END -->
 
 
