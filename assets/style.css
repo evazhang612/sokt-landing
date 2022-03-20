@@ -38,7 +38,7 @@ html {
 
 body {
   background: #fff;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: 'Work Sans', sans-serif; 
   color: #404040;
   line-height: 1.7;
   font-weight: 400;
@@ -56,8 +56,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
 /*  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 */  
-  font-family: "WorkSans-Italic-VariableFont_wght"; 
-  color: $darkerGray;
+  font-family: 'Work Sans', sans-serif; 
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 100px;
-  font-family: "WorkSans-Italic-VariableFont_wght";  
+  font-family: 'Work Sans', sans-serif; 
   a {
     color: inherit;
   }
