@@ -692,6 +692,11 @@ Modules - reusable parts of our design
   line-height: 1;
 }
 
+
+.simple-linear {
+  background: linear-gradient(blue, pink);
+}
+
 .carbon-img img {
   display: block;
   margin: 0 auto;
