@@ -11,7 +11,7 @@ Part of a new social network without ads, where users create2Earn.
 
 <div class="form-style-6">
 <h1>Waitlist Signup</h1>
-<div>
+<div class = "form-style-6">
 <form action="https://getform.io/f/96389641-994a-4df5-9214-495fe8dd4497" method="POST">
     <input type="text" name="name"  placeholder="Your Name">
     <input type="email" name="email" placeholder="Email Address">
