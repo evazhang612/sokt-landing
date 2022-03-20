@@ -702,10 +702,8 @@ Modules - reusable parts of our design
   max-width: 400px;
   margin: 10px auto;
   padding: 16px;
-/*  background: #F7F7F7;*/
 }
 .form-style-6 h1{
-/*  background: #43D1AF;*/
   padding: 20px 0;
   font-size: 140%;
   font-weight: 300;
@@ -740,11 +738,13 @@ Modules - reusable parts of our design
   padding: 3%;
 /*  color: #555;*/
   font: 95% Arial, Helvetica, sans-serif;
+
 }
 .form-style-6 input[type="text"]:focus,
 .form-style-6 input[type="date"]:focus,
 .form-style-6 input[type="datetime"]:focus,
 .form-style-6 input[type="email"]:focus,
+.form-style-6 input[type="twitter"]:focus,
 .form-style-6 input[type="number"]:focus,
 .form-style-6 input[type="search"]:focus,
 .form-style-6 input[type="time"]:focus,
@@ -752,9 +752,10 @@ Modules - reusable parts of our design
 .form-style-6 textarea:focus,
 .form-style-6 select:focus
 {
-  box-shadow: 0 0 5px #43D1AF;
-  padding: 3%;
-  border: 1px solid #43D1AF;
+  box-shadow: 0 0 5px #1831ff;
+  padding: 1%;
+  border: 1px solid #1831ff;
+  border-radius: 25px;
 }
 
 .form-style-6 input[type="submit"],
@@ -769,6 +770,7 @@ Modules - reusable parts of our design
   border-top-style: none;
   border-right-style: none;
   border-left-style: none;  
+  border-radius: 25px;
   color: #fff;
 }
 .form-style-6 input[type="submit"]:hover,
