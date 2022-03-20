@@ -39,7 +39,7 @@ html {
 body {
   background: #fff;
   font-family: 'Work Sans', sans-serif; 
-  color: #404040;
+  color: white;
   line-height: 1.7;
   font-weight: 400;
   font-size: 18px;
@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 /*  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 */  
   font-family: 'Work Sans', sans-serif; 
-  color: $white;
+  color: white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 100px;
   font-family: 'Work Sans', sans-serif; 
-  color: $white;
+  color: white;
   a {
     color: inherit;
   }
