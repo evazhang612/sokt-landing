@@ -3,18 +3,14 @@
 #
 
 
-courses: "http://www.evazhang.com/courses"
-courses: "http://www.evazhang.com/wtt"
-
-
 # Name of your site (displayed in the header)
-name: Eva Zhang       
+name: Socket       
 
 # Name of the author
-author: Eva Zhang         
+author: Socket Labs       
 
 # Short bio or description (displayed in the header)
-description: Me But Online           
+description: Socket         
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
@@ -28,16 +24,16 @@ profile: "./images/profile.png"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: hello@evazhang.com
+  email: build@sokt.xyz
   facebook:
   flickr:
-  github: evazhang612
+  github: 
   instagram:
-  linkedin: evazhang612
+  linkedin: 
   pinterest:
   rss: 
-  twitter: evayzh
-  spotify: evazhung
+  twitter: socketxyz
+  spotify: 
   vsco:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -54,8 +50,8 @@ google_analytics: UA-217305059-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.evazhang.com
-enforce_ssl: https://www.evazhang.com
+url: http://www.sokt.xyz
+enforce_ssl: https://www.sokt.xyz
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
