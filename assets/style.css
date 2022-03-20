@@ -439,6 +439,7 @@ nav {
 
 .wrapper-main {
   padding-bottom: 134px;
+  background-color: #1831ff;
 }
 
 .wrapper-footer {
@@ -446,7 +447,7 @@ nav {
   bottom: 0;
   width: 100%;
   height: 89px;
-  background-color: $lightGray;
+  background-color: #1831ff;
 }
 
 footer {
