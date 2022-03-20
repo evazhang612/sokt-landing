@@ -9,6 +9,13 @@ We start by solving the social discovery and curation problem for web3 users.
 
 Part of a new social network without ads, where users create2Earn. 
 
+
+<form action="https://getform.io/f/96389641-994a-4df5-9214-495fe8dd4497" method="POST">
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <button type="submit">Send</button>
+</form>
+
 <!-- 
 I am currently part of a team experimenting with new ways of powering up social networks. 
 
