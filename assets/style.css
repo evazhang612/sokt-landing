@@ -696,11 +696,6 @@ Modules - reusable parts of our design
   line-height: 1;
 }
 
-
-background: rgb(34,193,195);
-background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,74,253,1) 100%);
-
-
 .form-style-6{
   font: 95% Work-Sans sans-serif;
   max-width: 400px;
@@ -708,14 +703,14 @@ background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,74,253,1) 100%)
   padding: 16px;
   background: white;
 }
-.form-style-6 h1{
+/*.form-style-6 h1{
   padding: 20px 0;
   font-size: 140%;
   font-weight: 300;
   text-align: center;
   color: #fff;
   margin: -16px -16px 16px -16px;
-}
+}*/
 .form-style-6 input[type="text"],
 .form-style-6 input[type="date"],
 .form-style-6 input[type="datetime"],
@@ -789,7 +784,7 @@ background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,74,253,1) 100%)
   padding: 16px;
   background: blue;
 }
-.form-style-6 h1{
+/*.form-style-6 h1{
   background: blue;
   padding: 20px 0;
   font-size: 140%;
@@ -797,7 +792,7 @@ background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,74,253,1) 100%)
   text-align: center;
   color: #fff;
   margin: -16px -16px 16px -16px;
-}
+}*/
 .form-style-6 input[type="text"],
 .form-style-6 input[type="date"],
 .form-style-6 input[type="datetime"],
