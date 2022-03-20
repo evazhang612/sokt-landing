@@ -698,8 +698,7 @@ Modules - reusable parts of our design
   line-height: 1;
 }
 
-.form-style-6 h1{
-}
+
 
 .form-style-6{
   font: 95% Work-Sans sans-serif;
@@ -708,14 +707,15 @@ Modules - reusable parts of our design
   padding: 16px;
   background: white;
 }
-/*.form-style-6 h1{
-  padding: 20px 0;
+.form-style-6 h1{
+  color: white;
+/*  padding: 20px 0;
   font-size: 140%;
   font-weight: 300;
   text-align: center;
   color: #fff;
-  margin: -16px -16px 16px -16px;
-}*/
+  margin: -16px -16px 16px -16px;*/
+}
 .form-style-6 input[type="text"],
 .form-style-6 input[type="date"],
 .form-style-6 input[type="datetime"],
