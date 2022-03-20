@@ -435,6 +435,7 @@ nav {
 .wrapper-container {
   min-height: 100%;
   position: relative;
+  background-color: #1831ff;
 }
 
 .wrapper-main {
