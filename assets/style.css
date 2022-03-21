@@ -441,7 +441,7 @@ nav {
   padding-bottom: 134px;
 }
 
-.wrapper-footer {
+/*.wrapper-footer {
   position: absolute;
   bottom: 10;
   width: 100%;
@@ -451,7 +451,7 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
-}
+}*/
 
 body:after {
     background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
