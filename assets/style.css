@@ -764,34 +764,34 @@ Modules - reusable parts of our design
   border: 1px solid #43D1AF;
 }
 
-.form-style-6 input[type="submit"],
+/*.form-style-6 input[type="submit"],
 .form-style-6 input[type="button"]{
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   width: 100%;
   padding: 3%;
-/*  background: #43D1AF;*/
+  background: #43D1AF;
   border-bottom: 2px solid #30C29E;
   border-top-style: none;
   border-right-style: none;
   border-left-style: none;  
   border-radius: 25px;
 /*  color: #fff;*/
-}
-.form-style-6 input[type="submit"]:hover,
-.form-style-6 input[type="button"]:hover{
+/*}
+.form-style-6 input[type="submit"]:hover,*//*/
+/*.form-style-6 input[type="button"]:hover{*/
 /*  background: #2EBC99;*/
-  -webkit-box-sizing: border-box;
+/*  -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   width: 100%;
   padding: 3%;
   max-width: 400px;
   margin: 10px auto;
-  padding: 16px;
+  padding: 16px;*/
 /*  background: blue;*/
 /*  color: white;*/
-}
+/*}*/
 /*.form-style-6 h1{
   background: blue;
   padding: 20px 0;
