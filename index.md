@@ -3,9 +3,9 @@ layout: default_landing
 ---
 
 
-A social media experiment without ads or wallets, starting with web3. 
+A web3 social media experiment without ads or wallets. 
 
-We start by solving the social discovery and curation problem for web3 users. 
+We start with the social discovery and curation problem for web3 users. 
 
 Part of a new social network without ads, where users create2Earn. 
 
