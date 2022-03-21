@@ -14,6 +14,6 @@ Part of a new social network without ads, where users create2Earn.
     <input type="text" name="name"  placeholder="Your Name">
     <input type="email" name="email" placeholder="Email Address">
     <input type="twitter" name="twitter" placeholder="Twitter@ (optional)">
-    <button type="submit"> Send It 🔌 </button>
+    <button type="submit"> Power Up 🔌 </button>
 </form>
 </div>

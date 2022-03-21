@@ -1,19 +1,13 @@
 ---
 ---
 
-//
-// IMPORTS
-//
 
 @import "reset";
 @import "variables";
-// Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
 /**************/
-
-@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 html {
   font-size: 100%;
@@ -208,11 +202,9 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
   }
 }
 
@@ -382,7 +374,6 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
     }
   }
 }
@@ -509,7 +500,7 @@ body:after {
 .cd-container a {
   color: #30434e;
   text-decoration: none;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
 }
 
 .cd-container img {
