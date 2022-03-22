@@ -2,7 +2,9 @@
 layout: default_landing
 ---
 
-Tired of tracking your Twitter and Discord feed? Find and keep up-to-date with your friends and projects in web3, without revealing your wallets. 
+Tired of tracking your Twitter and Discord feed? 
+
+Find and keep up-to-date with your friends and projects in web3, without revealing or exposing your wallets. 
 
 User moderated and user-owned social media experiment. 
 
