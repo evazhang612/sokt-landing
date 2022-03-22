@@ -6,7 +6,7 @@ Tired of tracking your Twitter and Discord feed?
 
 Find and keep up-to-date with your friends and projects in web3, without revealing or exposing your wallets. Security first. 
 
-User moderated and user-owned social media experiment. 
+User moderated and user-owned zero-knowledge social media experiment. 
 
 <div class="form-style-6">
 <h3>Waitlist Signup</h3>
