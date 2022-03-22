@@ -4,7 +4,7 @@ layout: default_landing
 
 Find and keep up-to-date with your friends in web3, without revealing your wallets. 
 
-User-owned and moderated social media experiment. 
+User moderated and user-owned social media experiment. 
 
 Part of a new social network without ads, where users create2Earn. 
 
