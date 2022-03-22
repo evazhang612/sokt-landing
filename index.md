@@ -2,9 +2,9 @@
 layout: default_landing
 ---
 
-A web3 social media experiment without ads or wallets. 
+Find and keep up-to-date with your friends in web3, without revealing your wallets. 
 
-We start with the social discovery and curation problem for web3 users. 
+User-owned and moderated social media experiment. 
 
 Part of a new social network without ads, where users create2Earn. 
 
