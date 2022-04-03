@@ -2,7 +2,7 @@
 layout: default_landing
 ---
 
-Tired of tracking your Twitter and Discord feed? 
+<!-- Tired of tracking your Twitter and Discord feed? 
 
 Find and keep up-to-date with your friends and projects in web3, without revealing or exposing your wallets. Selectively show your tokens. Security first. 
 
@@ -16,4 +16,4 @@ User moderated and user-owned zk social media experiment.
     <input type="twitter" name="twitter" placeholder="Twitter@ (optional)">
     <button class="btn btn-blue"> Power Up 🔌 </button>
 </form>
-</div>
+</div> -->
